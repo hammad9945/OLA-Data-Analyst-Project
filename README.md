@@ -2,7 +2,6 @@
 I built a very structured OLA Data Analyst Project that covers SQL + Power BI + Google Sheets + Data Cleaning.
 
 ## 🎯 Purpose
-
 The goal of this project is to analyze **OLA ride booking statistics** using SQL, Google Sheets, and Power BI.
 The project identifies key trends, cancellations, ratings, and customer behavior to provide actionable insights for improving business efficiency and customer satisfaction.
 
