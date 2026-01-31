@@ -74,7 +74,6 @@ The analysis highlights areas such as:
 ---
 
 ## 🔑 Key Insights
-
 * Weekends & match days significantly drive **higher booking values**
 * Cancellations are mostly **customer-driven**, but driver-related cancellations due to **personal/car issues** are notable
 * Prime Sedan has **high ratings variance**
