@@ -4,7 +4,6 @@ SQL Questions:
 select *from bookings
 where Booking_Status = 'Success';
 
-
 2. Find the average ride distance for each vehicle type:
 
 select Vehicle_Type, avg(Ride_Distance)
@@ -63,4 +62,5 @@ GROUP BY Vehicle_Type;
 SELECT SUM(Booking_Value) AS Total_Booking_Value
 FROM Bookings
 WHERE Booking_Status = 'Success';
+
 
